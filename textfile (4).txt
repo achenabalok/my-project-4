@@ -1,0 +1,38 @@
+{
+  "prompt_schema": {
+    "subject_breakdown": {
+      "demographics": "young woman, fit physique",
+      "hair": "long dirty blonde wavy hair, voluminous loose curls, falling down back",
+      "facial_features": "side profile view, distinctive almond-shaped blue eyes, soft pouty lips, sharp jawline, looking upwards, soft glam makeup, elegant expression",
+      "skin_texture": "hyper-realistic skin pores, soft sheen, natural fair complexion"
+    },
+    "attire_and_styling": {
+      "clothing_item": "tight black mini dress, long sleeves, bodycon fit",
+      "details": "distinct gold metallic zipper or cutout accent running down the spine",
+      "accessories": "minimalist silver or pearl stud earrings",
+      "footwear": "barefoot, natural pose"
+    },
+    "pose_and_action": {
+      "body_position": "kneeling on a sofa, arching back slightly, turning torso away from camera",
+      "interaction": "hands resting on the couch backrest, posing specifically to highlight the dress back detail and profile",
+      "angle": "eye-level or slightly low angle shot from the side"
+    },
+    "environment_and_setting": {
+      "location": "luxury high-rise penthouse, indoor living room",
+      "furniture": "modern gray sectional sofa, fabric texture visible",
+      "background": "massive floor-to-ceiling glass window",
+      "scenery": "vast night city skyline, urban skyscrapers, bokeh city lights, dark blue night sky"
+    },
+    "lighting_and_atmosphere": {
+      "type": "dim indoor ambient lighting mixed with city glow",
+      "mood": "sultry, elegant, cinematic, intimate, expensive atmosphere",
+      "contrast": "high contrast between the dark interior and the bright city lights outside"
+    },
+    "technical_specifications": {
+      "quality_tags": "ultra-realistic, 8k resolution, HDR, photorealistic, masterpiece, highly detailed, sharp focus, ray tracing, celebrity likeness",
+      "camera_style": "shot on 35mm lens, depth of field, slight background blur (bokeh) on the city lights",
+      "aspect_ratio": "9:16 (vertical/long)",
+      "render_engine": "unreal engine 5 style or high-end photography"
+    }
+  }
+}
